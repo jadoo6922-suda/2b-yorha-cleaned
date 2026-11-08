@@ -45,7 +45,7 @@ global.ch = { ch1: "", ch2: "" }
 
 // مفاتيح API — ضع مفتاح Groq هنا
 global.APIs = {
-  groq: process.env.GROQ_API_KEY || "",
+  groq: '',
   vreden: { url: "https://api.vreden.web.id", key: null },
   delirius: { url: "https://api.delirius.store", key: null },
   zenzxz: { url: "https://api.zenzxz.my.id", key: null },
