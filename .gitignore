@@ -1,0 +1,10 @@
+node_modules/
+Sessions/
+sessions/
+*.log
+.env
+.wwebjs*
+auth_info*
+baileys_store*
+.tmp/
+tmp/
